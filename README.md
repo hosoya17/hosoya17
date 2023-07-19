@@ -25,5 +25,5 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosoya17&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosoya17)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosoya17&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosoya17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
